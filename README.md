@@ -62,7 +62,14 @@ The chatbot was designed in three main components:
 - **Optimization**: Real-time interaction was prioritized using APIs for NLP and MongoDB for fast queries ⚡.  
 - **Tradeoff**: The reliance on cloud-based services means the chatbot's performance depends on stable internet connectivity 🌐.  
 
----  
+--- 
+
+## **Results** 
+![Chatbot UI](images/Screenshot_31.png)
+![Response](images/Screenshot_33.png)
+
+
+--- 
 
 ## **Future Enhancements**  
 1. **Deployment**: Host the chatbot on cloud platforms (e.g., AWS, Google Cloud) for better scalability and availability ☁️.  
