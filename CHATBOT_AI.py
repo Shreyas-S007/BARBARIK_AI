@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 # Configure API keys and connections
-GOOGLE_API_KEY = "AIzaSyDwhPnwvTJlcrzpwpRjuF0_YBs5XhLXDZs"
+GOOGLE_API_KEY = <add your API_KEY>
 MONGODB_URI = "mongodb://localhost:27017/"
 
 # Configure Gemini API
