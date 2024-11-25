@@ -1,0 +1,10 @@
+MONGO DB REQUIREMENTS
+pymongo
+datetime
+
+CHATBOT REQUIREMENTS
+pymongo
+datetime
+python-dotenv
+google-generativeai
+streamlit
