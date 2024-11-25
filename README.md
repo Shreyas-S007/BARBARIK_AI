@@ -65,8 +65,8 @@ The chatbot was designed in three main components:
 --- 
 
 ## **Results** 
-![Chatbot UI](images/Screenshot_31.png)
-![Response](images/Screenshot_33.png)
+![Chatbot UI](https://github.com/Shreyas-S007/BARBARIK_AI/blob/b2d3bbbb1da7f79e407bc55727fa9a95a0a3cc79/Chatbot%20UI.png)
+![Response](https://github.com/Shreyas-S007/BARBARIK_AI/blob/b2d3bbbb1da7f79e407bc55727fa9a95a0a3cc79/Response.png)
 
 
 --- 
